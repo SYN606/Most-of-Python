@@ -24,6 +24,6 @@
 | `chr(x)`             | Converts an integer to a character.        | `chr(65)` → `'A'`                                 |
 | `ord(x)`             | Converts a character to its Unicode code.  | `ord('A')` → `65`                                 |
 
-## [Operators](OPERATORS.md)
+## Checkout 👉🏻 [Operators](OPERATORS.md) 🚀
 
-## check this out 👉🏻 [Important](IMPORTANT.md)
+## check this out 👉🏻 [Important](IMPORTANT.md) 🚀
