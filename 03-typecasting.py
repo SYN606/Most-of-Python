@@ -27,7 +27,7 @@ When a user does typecasting in a program it is known as explicit typecasting.On
 
 num_1 = 40
 num_2 = input("Enter a number : ")
-# By default whenever python takes input by a user its default data type is string, we can use type() function for checking the data type of a variabel.
+# By default whenever python takes input by a user its default data type is string, we can use type() function for checking the data type of a variable.
 print(type(num_2))
 num_3 = 2
 
