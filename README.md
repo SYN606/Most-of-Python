@@ -1,6 +1,6 @@
-# Python Basics Cheatsheet
+# 🚀 Python Basics Cheatsheet 🔥
 
-## Escape Sequences
+## Escape Sequences 🔭
 
 | Escape Sequence | Description         |
 | --------------- | ------------------- |
@@ -9,7 +9,7 @@
 | `\b`            | Backspace           |
 | `\v`            | Vertical tab        |
 
-## Typecasting
+## Typecasting 🧷
 
 | **Function**         | **Description**                            | **Example**                                       |
 |----------------------|--------------------------------------------|---------------------------------------------------|
@@ -25,4 +25,5 @@
 | `ord(x)`             | Converts a character to its Unicode code.  | `ord('A')` → `65`                                 |
 
 ## [Operators](OPERATORS.md)
-    
+
+## check this out 👉🏻 [Important](IMPORTANT.md)
