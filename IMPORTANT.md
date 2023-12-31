@@ -43,3 +43,4 @@ if x > 0:
     print("This statement is also in the 'if' block")
 
 print("This statement is outside the 'if' block")
+```
